@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menuCharcoal"
+        android:title="Charcoal"
+        />
+
+    <item android:id="@+id/menuPaint"
+        android:title="Paint" />
+
+    <item android:id="@+id/menuScribble"
+        android:title="Scribble" />
+
+    <item android:id="@+id/menuRed"
+        android:title="Red Paint" />
+
+    <item android:id="@+id/menuGreen"
+        android:title="Green Paint" />
+
+    <item android:id="@+id/menuBlue"
+        android:title="Blue Paint" />
+
+
+
+</menu>
